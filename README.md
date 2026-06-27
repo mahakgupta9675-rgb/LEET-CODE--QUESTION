@@ -18,8 +18,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

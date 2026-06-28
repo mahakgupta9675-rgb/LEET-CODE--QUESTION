@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0191-number-of-1-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->

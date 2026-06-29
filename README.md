@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -44,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->

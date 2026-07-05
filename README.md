@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1009-complement-of-base-10-integer) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

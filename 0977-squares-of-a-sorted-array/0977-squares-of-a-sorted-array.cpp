@@ -2,24 +2,22 @@ class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
 
-        int left = 0;
-        int right = nums.size() - 1;
+        int i = 0;
+        int j = nums.size() - 1;
 
         vector<int> ans(nums.size());
 
         int k = nums.size() - 1;
 
-        while (left <= right) {
+        while (i <= j) {
 
-            int leftSquare = nums[left] * nums[left];
-            int rightSquare = nums[right] * nums[right];
-
-            if (leftSquare > rightSquare) {
-                ans[k] = leftSquare;
-                left++;
-            } else {
-                ans[k] = rightSquare;
-                right--;
+            if (nums[i] * nums[i] > nums[j] * nums[j]) {
+                ans[k] = nums[i] * nums[i];
+                i++;
+            }
+            else {
+                ans[k] = nums[j] * nums[j];
+                j--;
             }
 
             k--;

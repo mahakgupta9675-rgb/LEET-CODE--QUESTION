@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1903-largest-odd-number-in-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

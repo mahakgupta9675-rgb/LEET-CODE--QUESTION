@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1903-largest-odd-number-in-string) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

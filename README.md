@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |

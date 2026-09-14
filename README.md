@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0209-minimum-size-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

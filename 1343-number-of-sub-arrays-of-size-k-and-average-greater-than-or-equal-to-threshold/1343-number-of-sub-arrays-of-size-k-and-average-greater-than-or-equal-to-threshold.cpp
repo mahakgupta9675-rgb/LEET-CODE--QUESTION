@@ -9,7 +9,7 @@ public:
             sum += arr[right];
 
             if(right - left + 1 == k ){
-                if(sum >= k * threshold){
+                if(sum / k  >= threshold){
                     count++;
                 }
 

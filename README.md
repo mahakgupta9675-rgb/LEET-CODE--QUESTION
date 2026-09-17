@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0209-minimum-size-subarray-sum) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
 | ------- |

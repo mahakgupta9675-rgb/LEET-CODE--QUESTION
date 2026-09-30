@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -157,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

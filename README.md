@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0209-minimum-size-subarray-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |

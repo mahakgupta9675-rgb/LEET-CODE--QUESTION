@@ -17,7 +17,7 @@ public:
 
             currentMin = min({x, oldMax * x, oldMin * x});
 
-            ans = max(ans, currentMax);
+            ans = max(ans, max(currentMax,currentMin));
         }
 
         return ans;

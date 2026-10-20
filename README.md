@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0977-squares-of-a-sorted-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |

@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/mahakgupta9675-rgb/LEET-CODE--QUESTION/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
